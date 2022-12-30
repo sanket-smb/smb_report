@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include smb_report *.css
+recursive-include smb_report *.csv
+recursive-include smb_report *.html
+recursive-include smb_report *.ico
+recursive-include smb_report *.js
+recursive-include smb_report *.json
+recursive-include smb_report *.md
+recursive-include smb_report *.png
+recursive-include smb_report *.py
+recursive-include smb_report *.svg
+recursive-include smb_report *.txt
+recursive-exclude smb_report *.pyc
