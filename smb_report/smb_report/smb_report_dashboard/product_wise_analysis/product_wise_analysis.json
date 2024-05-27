@@ -1,0 +1,33 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "HP Product Sales",
+   "width": "Half"
+  },
+  {
+   "chart": "HP Product Purchase",
+   "width": "Half"
+  },
+  {
+   "chart": "Compatible Toner Sale",
+   "width": "Half"
+  },
+  {
+   "chart": "Compatible Purchase",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-01-14 17:03:50.665449",
+ "dashboard_name": "Product Wise Analysis",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-05-21 14:38:20.361840",
+ "modified_by": "mushylimdi@gmail.com",
+ "module": "Smb Report",
+ "name": "Product Wise Analysis",
+ "owner": "mushylimdi@gmail.com"
+}

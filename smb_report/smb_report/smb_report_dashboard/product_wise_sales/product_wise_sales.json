@@ -1,0 +1,21 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "HP PRODUCT SALE",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-01-14 17:03:50.665449",
+ "dashboard_name": "Product Wise Sales",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-05-18 12:32:12.732918",
+ "modified_by": "mushylimdi@gmail.com",
+ "module": "Smb Report",
+ "name": "Product Wise Sales",
+ "owner": "mushylimdi@gmail.com"
+}
